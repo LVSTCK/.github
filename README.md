@@ -1,8 +1,6 @@
 # Livestock (LVSTCK) [🤗](https://huggingface.co/LVSTCK)
 
-LVSTCK is a community of students that want to explore and contribute to the current state-of-the-art NLP tech. Our mission is to creati☕ open-access tools and datasets that benefit both the research community and the wider public. 
-
----
+LVSTCK is a community of students that want to explore and contribute to the current state-of-the-art NLP tech. Our mission is to creatig open-access tools and datasets that benefit both the research community and the wider public. 
 
 ## ☕ Projects  
 
