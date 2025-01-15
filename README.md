@@ -7,11 +7,11 @@ LVSTCK is a community of students that want to explore and contribute to the cur
 1. **Macedonian Corpus**  
 A dataset of Macedonian documents, consolidating data from various public sources.
 
-2. **Macedonian LLM Evaluation**  
+2. **Macedonian LLM Evaluation Benchmark**  
 LLM evaluation for Macedonian language.
 
-3. **Macedonian LLM** 
-A language model designed specifically for the Macedonian language, enabling various NLP applications.
+3. **Macedonian LLM**<br>
+A language model designed specifically for the Macedonian language, enabling various NLP applications. Fully open sourced, including data and methods. 
 
 ## 📬 Contact
 
