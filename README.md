@@ -10,6 +10,9 @@ A dataset of Macedonian documents, consolidating data from various public source
 2. **Macedonian LLM Evaluation**  
 LLM evaluation for Macedonian language.
 
+3. **Macedonian LLM** 
+A language model designed specifically for the Macedonian language, enabling various NLP applications.
+
 ## 📬 Contact
 
 For inquiries, feedback, or contributions, please feel free to reach out:
